@@ -1,4 +1,17 @@
 @charset "UTF-8";
+
+.btn {
+  cursor: pointer;
+}
+
+body {
+  color: #34495e;
+}
+
+.clicked {
+  color: #7f8c8d;
+}
+
 .form,
 .greetings {
   display: none;
